@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: buddypairs\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-13 16:09+0000\n"
+"PO-Revision-Date: 2017-06-13 16:29+0000\n"
+"Last-Translator: acefadm <acef@inkston.com>\n"
+"Language-Team: Chinese (China)\n"
+"Language: zh-CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: buddypairs.php:699
+msgid "leave_group"
+msgstr ""
+
+#: buddypairs.php:755
+msgid "Sorry you cannot manage requests on behalf of another user."
+msgstr "对不起，您无法代表其他用户管理请求。"
+
+#. Name of the plugin
+msgid "buddypairs"
+msgstr ""
+
+#. Description of the plugin
+msgid "customizations for ACEF"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://community.anglochinaeducation.org/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jonathan Moore"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://jonmoblog.wordpress.com/"
+msgstr ""
+
+#: buddypairs.php:290
+msgid "Already added"
+msgstr "已经加过"
+
+#: buddypairs.php:304
+msgid "Already Member"
+msgstr "已经成员"
+
+#: buddypairs.php:333
+msgid "Add to Group"
+msgstr "将用户添加到组"
+
+#: buddypairs.php:384 buddypairs.php:389
+msgid "No buddy pairs"
+msgstr "没有小组"
+
+#: buddypairs.php:386
+msgid "Create buddy pair"
+msgstr "创建小组"
+
+#: buddypairs.php:391
+msgid "View all groups"
+msgstr "看所有组"
+
+#: buddypairs.php:1140
+msgid "Buddy Pairs"
+msgstr "小组"
+
+#: buddypairs.php:1141 buddypairs.php:1368
+msgid "Buddy Pair"
+msgstr "小组"
+
+#: buddypairs.php:1148
+msgid "Buddy Pair study group"
+msgstr "学习小组"
+
+#: buddypairs.php:1154
+msgid "Flexible groups"
+msgstr "多用途组"
+
+#: buddypairs.php:1155
+msgid "flexible group"
+msgstr "多用途组"
+
+#: buddypairs.php:1162
+msgid "flexible groups for schools, study groups"
+msgstr "学校学习多用途组"
+
+#: buddypairs.php:1211
+msgid "Pairs"
+msgstr "小组"
+
+#: buddypairs.php:1225
+msgid "Create Pair"
+msgstr "创建小组"
+
+#: buddypairs.php:1269
+msgid "Create Buddy Pair"
+msgstr "创建小组"
+
+#: buddypairs.php:1367
+msgid "Selecting users to add to new"
+msgstr "选择要添加的用户"
+
+#: buddypairs.php:1370
+msgid ": "
+msgstr "："
+
+#: buddypairs.php:1386
+msgid "x Remove"
+msgstr "去掉"
+
+#: buddypairs.php:1400
+msgid "Proceed to Create Group"
+msgstr "继续创建组"
+
+#: buddypairs.php:1448
+msgid "Added the following moderators to the group:"
+msgstr "将以下版主添加到组中："
+
+#: buddypairs.php:1452
+msgid "Added the following student members to the group:"
+msgstr "将以下学生成员添加到组中："
+
+#: buddypairs.php:1459
+msgid "Select users to add to group"
+msgstr "选择要添加到组的用户"
+
+#: buddypairs.php:1471
+msgid "Return to Group"
+msgstr "返回组"
+
+#: buddypairs.php:1566
+msgid "Add Members"
+msgstr "添加组成员"

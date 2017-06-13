@@ -1,0 +1,143 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-13 16:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: buddypairs.php:290
+msgid "Already added"
+msgstr ""
+
+#: buddypairs.php:304
+msgid "Already Member"
+msgstr ""
+
+#: buddypairs.php:333
+msgid "Add to Group"
+msgstr ""
+
+#: buddypairs.php:384 buddypairs.php:389
+msgid "No buddy pairs"
+msgstr ""
+
+#: buddypairs.php:386
+msgid "Create buddy pair"
+msgstr ""
+
+#: buddypairs.php:391
+msgid "View all groups"
+msgstr ""
+
+#: buddypairs.php:434
+msgid "My School"
+msgstr ""
+
+#: buddypairs.php:700
+msgid "leave_group"
+msgstr ""
+
+#: buddypairs.php:756
+msgid "Sorry you cannot manage requests on behalf of another user."
+msgstr ""
+
+#: buddypairs.php:1141
+msgid "Buddy Pairs"
+msgstr ""
+
+#: buddypairs.php:1142 buddypairs.php:1369
+msgid "Buddy Pair"
+msgstr ""
+
+#: buddypairs.php:1149
+msgid "Buddy Pair study group"
+msgstr ""
+
+#: buddypairs.php:1155
+msgid "Flexible groups"
+msgstr ""
+
+#: buddypairs.php:1156
+msgid "flexible group"
+msgstr ""
+
+#: buddypairs.php:1163
+msgid "flexible groups for schools, study groups"
+msgstr ""
+
+#: buddypairs.php:1212
+msgid "Pairs"
+msgstr ""
+
+#: buddypairs.php:1226
+msgid "Create Pair"
+msgstr ""
+
+#: buddypairs.php:1270
+msgid "Create Buddy Pair"
+msgstr ""
+
+#: buddypairs.php:1368
+msgid "Selecting users to add to new"
+msgstr ""
+
+#: buddypairs.php:1371
+msgid ": "
+msgstr ""
+
+#: buddypairs.php:1387
+msgid "x Remove"
+msgstr ""
+
+#: buddypairs.php:1401
+msgid "Proceed to Create Group"
+msgstr ""
+
+#: buddypairs.php:1449
+msgid "Added the following moderators to the group:"
+msgstr ""
+
+#: buddypairs.php:1453
+msgid "Added the following student members to the group:"
+msgstr ""
+
+#: buddypairs.php:1460
+msgid "Select users to add to group"
+msgstr ""
+
+#: buddypairs.php:1472
+msgid "Return to Group"
+msgstr ""
+
+#: buddypairs.php:1567
+msgid "Add Members"
+msgstr ""
+
+#. Name of the plugin
+msgid "buddypairs"
+msgstr ""
+
+#. Description of the plugin
+msgid "customizations for ACEF"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://community.anglochinaeducation.org/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jonathan Moore"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://jonmoblog.wordpress.com/"
+msgstr ""
