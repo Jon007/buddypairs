@@ -434,7 +434,9 @@ function jmbp_my_school_link()
             'user_id' => bp_loggedin_user_id()
         );
         $school = bp_get_profile_field_data($args);
-        echo('<li id="members-school"><a href="?members_search=' . urlencode($school) . '">'. 
+        global $wp;
+        $current_url = trailingslashit(home_url( add_query_arg( array(), $wp->request ) ));
+        echo('<li id="members-school"><a href="' . $current_url . '?members_search=' . urlencode($school) . '" onclick="window.location.href = this.href;">'. 
             __('My School', 'buddypairs') . '</a></li>');
     }
 }
